@@ -6,5 +6,5 @@ Users would able to save their time and get real time personalized notification 
 We going to use Co-WIN Protected APIs , if we get access of Test Server using API by Ministry of Health and Family Welfare, Government of India. Otherwise, we will use Co-WIN Public APIs . using
 Co-win Protected APIs our app can eliminate 30 minutes delay in appointment availability data.
 
-<center> ![image](https://user-images.githubusercontent.com/54111873/185791264-fcbfb825-c7e9-4576-bfb0-1866ea912e11.png) </center> 
+
 
